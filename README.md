@@ -1,1 +1,1 @@
-# Projeto de redes sociais na tela do celular.
+## Simulation of changing the screen on a cell phone.
